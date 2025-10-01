@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 👨‍💻 All of my projects are available at [https://www.puneetsoni.com](puneetsoni.com)
+- 👨‍💻 Portfolio - [https://www.puneetsoni.com](https://www.puneetsoni.com/)
 
 - 💬 Ask me about **Node.js, Vue.js, React, Angular, Python, Postgresql, Redis, RabbitMQ, Redshift, AWS Etc.**
 
