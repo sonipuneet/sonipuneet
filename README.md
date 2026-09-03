@@ -12,8 +12,9 @@
 
 - 👨‍💻 Portfolio - [https://www.puneetsoni.com](https://www.puneetsoni.com/)
 
-- 💬 Ask me about **Node.js, Vue.js, React, Angular, Python, Postgresql, Redis, RabbitMQ, Redshift, AWS Etc.**
+- 💬 Ask me about **AI Agents, Prompt Engineering, System Design / Arch ,Node.js, Vue.js, React, Angular, Python, Postgresql, Redis, RabbitMQ, Redshift, AWS Etc.**
 
+If you like my work and want to support me - buymeacoffee.com/sonipuneet
 <!-- CONNECT SECTION -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
